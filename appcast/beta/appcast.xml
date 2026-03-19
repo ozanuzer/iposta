@@ -5,5 +5,31 @@
     <link>https://iposta.app</link>
     <description>iPosta beta changelog</description>
     <language>en</language>
+        <item>
+            <title>iPosta 1.0.1</title>
+            <pubDate>Thu, 19 Mar 2026 11:31:57 +0000</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description><![CDATA[This is the first public beta of iPosta. We'd love your feedback!
+
+What's new:
+- Gmail and Microsoft 365 / Outlook support
+- Real-time push notifications via backend relay
+- Unified inbox with thread view
+- Rich text composer with attachments
+- Auto-update support (you're using it right now)
+
+Known limitations:
+- Some inline images in forwarded threads may not display correctly
+- Search is local only (no server-side search yet)
+
+Please report any bugs or feedback to: support@iposta.app]]></description>
+            <enclosure
+                url="https://github.com/ozanuzer/iposta/releases/download/v1.0.1/iPosta-1.0.1.zip"
+                sparkle:edSignature="rBRMAkHkOxcJhoG/3tOdgHEXJcneGFw7N3vvSFeb41nQxeKthZX7cw/RElpxRWWFA9/DN46hRBWj4BKJq1WwBQ=="
+                length="11797341"
+                type="application/octet-stream"
+            />
+        </item>
   </channel>
 </rss>
